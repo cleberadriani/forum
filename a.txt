@@ -1,7 +1,6 @@
+conexÃµes ativas
 
-Conexäes ativas
-
-  Proto  Endere‡o local         Endere‡o externo       Estado
+  Proto  Endereï¿½o local         Endereï¿½o externo       Estado
   TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
   TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
   TCP    0.0.0.0:902            0.0.0.0:0              LISTENING
